@@ -32,7 +32,7 @@ This project focuses on analyzing IPL (Indian Premier League) match data using P
 The IPL dataset is included in this repository as `IPL.csv`.
 
 ## Author
-Saifullah
+Mohammad Saifullah
 
 ---
 **IPL Data Analysis Capstone Project | 2026**
